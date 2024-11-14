@@ -21,6 +21,9 @@
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Core" Version="9.0.0" />
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.7" />
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGenerators.Mvc" Version="9.0.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="Syncfusion.EJ2.AspNet.Core" Version="27.1.58" />
+    <PackageReference Include="Syncfusion.Licensing" Version="27.1.58" />
   </ItemGroup>
 
 </Project>

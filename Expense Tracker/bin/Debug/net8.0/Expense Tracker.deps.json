@@ -17,7 +17,10 @@
           "Microsoft.VisualStudio.Web.CodeGeneration": "9.0.0",
           "Microsoft.VisualStudio.Web.CodeGeneration.Core": "9.0.0",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "8.0.7",
-          "Microsoft.VisualStudio.Web.CodeGenerators.Mvc": "9.0.0"
+          "Microsoft.VisualStudio.Web.CodeGenerators.Mvc": "9.0.0",
+          "Newtonsoft.Json": "13.0.3",
+          "Syncfusion.EJ2.AspNet.Core": "27.1.58",
+          "Syncfusion.Licensing": "27.1.58"
         },
         "runtime": {
           "Expense Tracker.dll": {}
@@ -2098,6 +2101,26 @@
           }
         }
       },
+      "Syncfusion.EJ2.AspNet.Core/27.1.58": {
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.3",
+          "Syncfusion.Licensing": "27.1.58"
+        },
+        "runtime": {
+          "lib/net8.0/Syncfusion.EJ2.dll": {
+            "assemblyVersion": "27.1.58.0",
+            "fileVersion": "27.1.58.0"
+          }
+        }
+      },
+      "Syncfusion.Licensing/27.1.58": {
+        "runtime": {
+          "lib/net8.0/Syncfusion.Licensing.dll": {
+            "assemblyVersion": "27.1.58.0",
+            "fileVersion": "27.1.58.0"
+          }
+        }
+      },
       "System.Buffers/4.5.0": {},
       "System.ClientModel/1.0.0": {
         "dependencies": {
@@ -3352,6 +3375,20 @@
       "sha512": "sha512-uZVTi02C1SxqzgT0HqTWatIbWGb40iIkfc3FpFCpE/r7g6K0PqzDUeefL6P6HPhDtc6BacN3yQysfzP7ks+wSQ==",
       "path": "sqlitepclraw.provider.e_sqlite3/2.1.10",
       "hashPath": "sqlitepclraw.provider.e_sqlite3.2.1.10.nupkg.sha512"
+    },
+    "Syncfusion.EJ2.AspNet.Core/27.1.58": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+D1W9Gzpd4UN2IeQteW1XbNXr5cyIq3VxWJaTwIcYCK5cne6gHqqcbvWnMEqwnSbC4wrG8mW00ITy4ZqiS8gGA==",
+      "path": "syncfusion.ej2.aspnet.core/27.1.58",
+      "hashPath": "syncfusion.ej2.aspnet.core.27.1.58.nupkg.sha512"
+    },
+    "Syncfusion.Licensing/27.1.58": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/L0Htf3W2dKw+Uh5wGnYVkHJJuAFAWhmgYZ4w4mY9KGEA9GzHwhqqTra7s4i75oC3P0sYykVRIzOoWUCAmkVBg==",
+      "path": "syncfusion.licensing/27.1.58",
+      "hashPath": "syncfusion.licensing.27.1.58.nupkg.sha512"
     },
     "System.Buffers/4.5.0": {
       "type": "package",

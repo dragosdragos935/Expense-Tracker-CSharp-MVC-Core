@@ -2588,6 +2588,32 @@
           "lib/net6.0/SQLitePCLRaw.provider.e_sqlite3.dll": {}
         }
       },
+      "Syncfusion.EJ2.AspNet.Core/27.1.58": {
+        "type": "package",
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.2",
+          "Syncfusion.Licensing": "27.1.58"
+        },
+        "compile": {
+          "lib/net8.0/Syncfusion.EJ2.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/Syncfusion.EJ2.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Syncfusion.Licensing/27.1.58": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/Syncfusion.Licensing.dll": {}
+        },
+        "runtime": {
+          "lib/net8.0/Syncfusion.Licensing.dll": {}
+        }
+      },
       "System.Buffers/4.5.0": {
         "type": "package",
         "compile": {
@@ -7145,6 +7171,55 @@
         "sqlitepclraw.provider.e_sqlite3.nuspec"
       ]
     },
+    "Syncfusion.EJ2.AspNet.Core/27.1.58": {
+      "sha512": "+D1W9Gzpd4UN2IeQteW1XbNXr5cyIq3VxWJaTwIcYCK5cne6gHqqcbvWnMEqwnSbC4wrG8mW00ITy4ZqiS8gGA==",
+      "type": "package",
+      "path": "syncfusion.ej2.aspnet.core/27.1.58",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "README.md",
+        "lib/net6.0/Syncfusion.EJ2.dll",
+        "lib/net6.0/Syncfusion.EJ2.xml",
+        "lib/net7.0/Syncfusion.EJ2.dll",
+        "lib/net7.0/Syncfusion.EJ2.xml",
+        "lib/net8.0/Syncfusion.EJ2.dll",
+        "lib/net8.0/Syncfusion.EJ2.xml",
+        "lib/netstandard2.0/Syncfusion.EJ2.dll",
+        "lib/netstandard2.0/Syncfusion.EJ2.xml",
+        "lib/netstandard2.1/Syncfusion.EJ2.dll",
+        "lib/netstandard2.1/Syncfusion.EJ2.xml",
+        "syncfusion.ej2.aspnet.core.27.1.58.nupkg.sha512",
+        "syncfusion.ej2.aspnet.core.nuspec",
+        "syncfusion_logo.png"
+      ]
+    },
+    "Syncfusion.Licensing/27.1.58": {
+      "sha512": "/L0Htf3W2dKw+Uh5wGnYVkHJJuAFAWhmgYZ4w4mY9KGEA9GzHwhqqTra7s4i75oC3P0sYykVRIzOoWUCAmkVBg==",
+      "type": "package",
+      "path": "syncfusion.licensing/27.1.58",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "README.md",
+        "lib/MonoAndroid90/Syncfusion.Licensing.dll",
+        "lib/Xamarin.Mac/Syncfusion.Licensing.dll",
+        "lib/Xamarin.iOS10/Syncfusion.Licensing.dll",
+        "lib/net40/Syncfusion.Licensing.dll",
+        "lib/net45/Syncfusion.Licensing.dll",
+        "lib/net462/Syncfusion.Licensing.dll",
+        "lib/net6.0/Syncfusion.Licensing.dll",
+        "lib/net7.0/Syncfusion.Licensing.dll",
+        "lib/net8.0/Syncfusion.Licensing.dll",
+        "lib/netstandard2.0/Syncfusion.Licensing.dll",
+        "lib/uap10.0/Syncfusion.Licensing.dll",
+        "syncfusion.licensing.27.1.58.nupkg.sha512",
+        "syncfusion.licensing.nuspec",
+        "syncfusion_logo.png"
+      ]
+    },
     "System.Buffers/4.5.0": {
       "sha512": "pL2ChpaRRWI/p4LXyy4RgeWlYF2sgfj/pnVMvBqwNFr5cXg7CXNnWZWxrOONLg8VGdFB8oB+EG2Qw4MLgTOe+A==",
       "type": "package",
@@ -8460,7 +8535,10 @@
       "Microsoft.VisualStudio.Web.CodeGeneration >= 9.0.0",
       "Microsoft.VisualStudio.Web.CodeGeneration.Core >= 9.0.0",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 8.0.7",
-      "Microsoft.VisualStudio.Web.CodeGenerators.Mvc >= 9.0.0"
+      "Microsoft.VisualStudio.Web.CodeGenerators.Mvc >= 9.0.0",
+      "Newtonsoft.Json >= 13.0.3",
+      "Syncfusion.EJ2.AspNet.Core >= 27.1.58",
+      "Syncfusion.Licensing >= 27.1.58"
     ]
   },
   "packageFolders": {
@@ -8554,6 +8632,18 @@
           "Microsoft.VisualStudio.Web.CodeGenerators.Mvc": {
             "target": "Package",
             "version": "[9.0.0, )"
+          },
+          "Newtonsoft.Json": {
+            "target": "Package",
+            "version": "[13.0.3, )"
+          },
+          "Syncfusion.EJ2.AspNet.Core": {
+            "target": "Package",
+            "version": "[27.1.58, )"
+          },
+          "Syncfusion.Licensing": {
+            "target": "Package",
+            "version": "[27.1.58, )"
           }
         },
         "imports": [

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "wg/wF37H6kShKoyAY+p3CL+wuXFwu2pof5KzBEsyGC8ZJ60TZH7tt8iDOGsN2EYNH2LK+Iru63Yb9ZCtWsb0lg==",
+  "dgSpecHash": "BpvD2ynSz14XvMg4lxck15Z3a0Mo8vfmjKKJCLcmD5UKJrFOTsyVx/kjnqGnp1veD1sStf+5p1z6PuURctq2oA==",
   "success": true,
   "projectFilePath": "C:\\Users\\drago\\OneDrive\\Desktop\\ExpenseTrackerAspNet\\Expense Tracker\\Expense Tracker.csproj",
   "expectedPackageFiles": [
@@ -144,6 +144,8 @@
     "C:\\Users\\drago\\.nuget\\packages\\sqlitepclraw.core\\2.1.10\\sqlitepclraw.core.2.1.10.nupkg.sha512",
     "C:\\Users\\drago\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.10\\sqlitepclraw.lib.e_sqlite3.2.1.10.nupkg.sha512",
     "C:\\Users\\drago\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.10\\sqlitepclraw.provider.e_sqlite3.2.1.10.nupkg.sha512",
+    "C:\\Users\\drago\\.nuget\\packages\\syncfusion.ej2.aspnet.core\\27.1.58\\syncfusion.ej2.aspnet.core.27.1.58.nupkg.sha512",
+    "C:\\Users\\drago\\.nuget\\packages\\syncfusion.licensing\\27.1.58\\syncfusion.licensing.27.1.58.nupkg.sha512",
     "C:\\Users\\drago\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
     "C:\\Users\\drago\\.nuget\\packages\\system.clientmodel\\1.0.0\\system.clientmodel.1.0.0.nupkg.sha512",
     "C:\\Users\\drago\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512",

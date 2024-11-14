@@ -91,6 +91,18 @@
             "Microsoft.VisualStudio.Web.CodeGenerators.Mvc": {
               "target": "Package",
               "version": "[9.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "Syncfusion.EJ2.AspNet.Core": {
+              "target": "Package",
+              "version": "[27.1.58, )"
+            },
+            "Syncfusion.Licensing": {
+              "target": "Package",
+              "version": "[27.1.58, )"
             }
           },
           "imports": [
