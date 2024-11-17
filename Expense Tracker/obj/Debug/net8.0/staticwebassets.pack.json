@@ -253,6 +253,10 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
+      "Id": "C:\\Users\\drago\\OneDrive\\Desktop\\ExpenseTrackerAspNet\\Expense Tracker\\wwwroot\\profile_image.png",
+      "PackagePath": "staticwebassets\\profile_image.png"
+    },
+    {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Expense Tracker.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },

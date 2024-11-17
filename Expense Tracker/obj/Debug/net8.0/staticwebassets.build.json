@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "LxWjrSx4FhmzuxI61k7stI/FIP01XmkNs5x8cnLGk2c=",
+  "Hash": "czu9Sm9y014fEOVDt5kOJqzYnEguvZYSWvjsXrwzljc=",
   "Source": "Expense Tracker",
   "BasePath": "_content/Expense Tracker",
   "Mode": "Default",
@@ -1231,6 +1231,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\drago\\OneDrive\\Desktop\\ExpenseTrackerAspNet\\Expense Tracker\\wwwroot\\profile_image.png",
+      "SourceId": "Expense Tracker",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\drago\\OneDrive\\Desktop\\ExpenseTrackerAspNet\\Expense Tracker\\wwwroot\\",
+      "BasePath": "_content/Expense Tracker",
+      "RelativePath": "profile_image.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\profile_image.png"
     }
   ]
 }
