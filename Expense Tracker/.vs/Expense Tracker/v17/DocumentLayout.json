@@ -3,6 +3,58 @@
   "WorkspaceRootPath": "C:\\Users\\drago\\OneDrive\\Desktop\\ExpenseTrackerAspNet\\Expense Tracker\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F39E0AB9-4276-487C-927D-B5A05F4E12DD}|Expense Tracker.csproj|C:\\Users\\drago\\OneDrive\\Desktop\\ExpenseTrackerAspNet\\Expense Tracker\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F39E0AB9-4276-487C-927D-B5A05F4E12DD}|Expense Tracker.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39E0AB9-4276-487C-927D-B5A05F4E12DD}|Expense Tracker.csproj|C:\\Users\\drago\\OneDrive\\Desktop\\ExpenseTrackerAspNet\\Expense Tracker\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F39E0AB9-4276-487C-927D-B5A05F4E12DD}|Expense Tracker.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39E0AB9-4276-487C-927D-B5A05F4E12DD}|Expense Tracker.csproj|c:\\users\\drago\\onedrive\\desktop\\expensetrackeraspnet\\expense tracker\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F39E0AB9-4276-487C-927D-B5A05F4E12DD}|Expense Tracker.csproj|solutionrelative:views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39E0AB9-4276-487C-927D-B5A05F4E12DD}|Expense Tracker.csproj|c:\\users\\drago\\onedrive\\desktop\\expensetrackeraspnet\\expense tracker\\views\\transaction\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F39E0AB9-4276-487C-927D-B5A05F4E12DD}|Expense Tracker.csproj|solutionrelative:views\\transaction\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39E0AB9-4276-487C-927D-B5A05F4E12DD}|Expense Tracker.csproj|c:\\users\\drago\\onedrive\\desktop\\expensetrackeraspnet\\expense tracker\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39E0AB9-4276-487C-927D-B5A05F4E12DD}|Expense Tracker.csproj|solutionrelative:controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39E0AB9-4276-487C-927D-B5A05F4E12DD}|Expense Tracker.csproj|c:\\users\\drago\\onedrive\\desktop\\expensetrackeraspnet\\expense tracker\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39E0AB9-4276-487C-927D-B5A05F4E12DD}|Expense Tracker.csproj|solutionrelative:controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39E0AB9-4276-487C-927D-B5A05F4E12DD}|Expense Tracker.csproj|C:\\Users\\drago\\OneDrive\\Desktop\\ExpenseTrackerAspNet\\Expense Tracker\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39E0AB9-4276-487C-927D-B5A05F4E12DD}|Expense Tracker.csproj|solutionrelative:models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39E0AB9-4276-487C-927D-B5A05F4E12DD}|Expense Tracker.csproj|C:\\Users\\drago\\OneDrive\\Desktop\\ExpenseTrackerAspNet\\Expense Tracker\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F39E0AB9-4276-487C-927D-B5A05F4E12DD}|Expense Tracker.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39E0AB9-4276-487C-927D-B5A05F4E12DD}|Expense Tracker.csproj|c:\\users\\drago\\onedrive\\desktop\\expensetrackeraspnet\\expense tracker\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F39E0AB9-4276-487C-927D-B5A05F4E12DD}|Expense Tracker.csproj|solutionrelative:views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39E0AB9-4276-487C-927D-B5A05F4E12DD}|Expense Tracker.csproj|C:\\Users\\drago\\OneDrive\\Desktop\\ExpenseTrackerAspNet\\Expense Tracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39E0AB9-4276-487C-927D-B5A05F4E12DD}|Expense Tracker.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39E0AB9-4276-487C-927D-B5A05F4E12DD}|Expense Tracker.csproj|c:\\users\\drago\\onedrive\\desktop\\expensetrackeraspnet\\expense tracker\\views\\transaction\\addoredit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F39E0AB9-4276-487C-927D-B5A05F4E12DD}|Expense Tracker.csproj|solutionrelative:views\\transaction\\addoredit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39E0AB9-4276-487C-927D-B5A05F4E12DD}|Expense Tracker.csproj|c:\\users\\drago\\onedrive\\desktop\\expensetrackeraspnet\\expense tracker\\views\\category\\addoredit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F39E0AB9-4276-487C-927D-B5A05F4E12DD}|Expense Tracker.csproj|solutionrelative:views\\category\\addoredit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39E0AB9-4276-487C-927D-B5A05F4E12DD}|Expense Tracker.csproj|C:\\Users\\drago\\OneDrive\\Desktop\\ExpenseTrackerAspNet\\Expense Tracker\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39E0AB9-4276-487C-927D-B5A05F4E12DD}|Expense Tracker.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F39E0AB9-4276-487C-927D-B5A05F4E12DD}|Expense Tracker.csproj|c:\\users\\drago\\onedrive\\desktop\\expensetrackeraspnet\\expense tracker\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F39E0AB9-4276-487C-927D-B5A05F4E12DD}|Expense Tracker.csproj|solutionrelative:views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -11,24 +63,12 @@
       "RelativeMoniker": "D:0:0:{F39E0AB9-4276-487C-927D-B5A05F4E12DD}|Expense Tracker.csproj|solutionrelative:controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F39E0AB9-4276-487C-927D-B5A05F4E12DD}|Expense Tracker.csproj|C:\\Users\\drago\\OneDrive\\Desktop\\ExpenseTrackerAspNet\\Expense Tracker\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{F39E0AB9-4276-487C-927D-B5A05F4E12DD}|Expense Tracker.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{F39E0AB9-4276-487C-927D-B5A05F4E12DD}|Expense Tracker.csproj|c:\\users\\drago\\onedrive\\desktop\\expensetrackeraspnet\\expense tracker\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F39E0AB9-4276-487C-927D-B5A05F4E12DD}|Expense Tracker.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F39E0AB9-4276-487C-927D-B5A05F4E12DD}|Expense Tracker.csproj|C:\\Users\\drago\\OneDrive\\Desktop\\ExpenseTrackerAspNet\\Expense Tracker\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{F39E0AB9-4276-487C-927D-B5A05F4E12DD}|Expense Tracker.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F39E0AB9-4276-487C-927D-B5A05F4E12DD}|Expense Tracker.csproj|C:\\Users\\drago\\OneDrive\\Desktop\\ExpenseTrackerAspNet\\Expense Tracker\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F39E0AB9-4276-487C-927D-B5A05F4E12DD}|Expense Tracker.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F39E0AB9-4276-487C-927D-B5A05F4E12DD}|Expense Tracker.csproj|C:\\Users\\drago\\OneDrive\\Desktop\\ExpenseTrackerAspNet\\Expense Tracker\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F39E0AB9-4276-487C-927D-B5A05F4E12DD}|Expense Tracker.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F39E0AB9-4276-487C-927D-B5A05F4E12DD}|Expense Tracker.csproj|C:\\Users\\drago\\OneDrive\\Desktop\\ExpenseTrackerAspNet\\Expense Tracker\\views\\category\\addoredit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F39E0AB9-4276-487C-927D-B5A05F4E12DD}|Expense Tracker.csproj|solutionrelative:views\\category\\addoredit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F39E0AB9-4276-487C-927D-B5A05F4E12DD}|Expense Tracker.csproj|C:\\Users\\drago\\OneDrive\\Desktop\\ExpenseTrackerAspNet\\Expense Tracker\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39E0AB9-4276-487C-927D-B5A05F4E12DD}|Expense Tracker.csproj|solutionrelative:models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F39E0AB9-4276-487C-927D-B5A05F4E12DD}|Expense Tracker.csproj|C:\\Users\\drago\\OneDrive\\Desktop\\ExpenseTrackerAspNet\\Expense Tracker\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -47,20 +87,8 @@
       "RelativeMoniker": "D:0:0:{F39E0AB9-4276-487C-927D-B5A05F4E12DD}|Expense Tracker.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F39E0AB9-4276-487C-927D-B5A05F4E12DD}|Expense Tracker.csproj|C:\\Users\\drago\\OneDrive\\Desktop\\ExpenseTrackerAspNet\\Expense Tracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F39E0AB9-4276-487C-927D-B5A05F4E12DD}|Expense Tracker.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F39E0AB9-4276-487C-927D-B5A05F4E12DD}|Expense Tracker.csproj|C:\\Users\\drago\\OneDrive\\Desktop\\ExpenseTrackerAspNet\\Expense Tracker\\migrations\\20241113210104_initial create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F39E0AB9-4276-487C-927D-B5A05F4E12DD}|Expense Tracker.csproj|solutionrelative:migrations\\20241113210104_initial create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F39E0AB9-4276-487C-927D-B5A05F4E12DD}|Expense Tracker.csproj|C:\\Users\\drago\\OneDrive\\Desktop\\ExpenseTrackerAspNet\\Expense Tracker\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F39E0AB9-4276-487C-927D-B5A05F4E12DD}|Expense Tracker.csproj|solutionrelative:models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F39E0AB9-4276-487C-927D-B5A05F4E12DD}|Expense Tracker.csproj|C:\\Users\\drago\\OneDrive\\Desktop\\ExpenseTrackerAspNet\\Expense Tracker\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F39E0AB9-4276-487C-927D-B5A05F4E12DD}|Expense Tracker.csproj|solutionrelative:models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,7 +98,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -79,12 +107,77 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\ExpenseTrackerAspNet\\Expense Tracker\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\ExpenseTrackerAspNet\\Expense Tracker\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAJEAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T00:22:12.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\ExpenseTrackerAspNet\\Expense Tracker\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\ExpenseTrackerAspNet\\Expense Tracker\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAcwHYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T00:21:35.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TransactionController.cs",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\ExpenseTrackerAspNet\\Expense Tracker\\Controllers\\TransactionController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TransactionController.cs",
+              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\ExpenseTrackerAspNet\\Expense Tracker\\Controllers\\TransactionController.cs",
+              "RelativeToolTip": "Controllers\\TransactionController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwDUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T20:55:54.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\ExpenseTrackerAspNet\\Expense Tracker\\Views\\Transaction\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Transaction\\Index.cshtml",
+              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\ExpenseTrackerAspNet\\Expense Tracker\\Views\\Transaction\\Index.cshtml",
+              "RelativeToolTip": "Views\\Transaction\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-16T21:01:31.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\ExpenseTrackerAspNet\\Expense Tracker\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\ExpenseTrackerAspNet\\Expense Tracker\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T22:24:50.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\ExpenseTrackerAspNet\\Expense Tracker\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
               "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\ExpenseTrackerAspNet\\Expense Tracker\\wwwroot\\css\\site.css",
               "RelativeToolTip": "wwwroot\\css\\site.css",
-              "ViewState": "AQIAAFYAAAAAAAAAAAAUwGoAAAAAAAAA",
+              "ViewState": "AQIAAIkAAAAAAAAAAAAUwKcAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-11-14T09:47:33.05Z",
               "EditorCaption": ""
@@ -92,43 +185,110 @@
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\ExpenseTrackerAspNet\\Expense Tracker\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "Models\\Transaction.cs",
+              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\ExpenseTrackerAspNet\\Expense Tracker\\Models\\Transaction.cs",
+              "RelativeToolTip": "Models\\Transaction.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAkwA4AAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T20:25:13.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\ExpenseTrackerAspNet\\Expense Tracker\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\ExpenseTrackerAspNet\\Expense Tracker\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-14T20:58:21.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_SideBar.cshtml",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\ExpenseTrackerAspNet\\Expense Tracker\\Views\\Shared\\_SideBar.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_SideBar.cshtml",
+              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\ExpenseTrackerAspNet\\Expense Tracker\\Views\\Shared\\_SideBar.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_SideBar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T00:24:45.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddOrEdit.cshtml",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\ExpenseTrackerAspNet\\Expense Tracker\\Views\\Transaction\\AddOrEdit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Transaction\\AddOrEdit.cshtml",
+              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\ExpenseTrackerAspNet\\Expense Tracker\\Views\\Transaction\\AddOrEdit.cshtml",
+              "RelativeToolTip": "Views\\Transaction\\AddOrEdit.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-16T20:59:55.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "AddOrEdit.cshtml",
               "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\ExpenseTrackerAspNet\\Expense Tracker\\Views\\Category\\AddOrEdit.cshtml",
               "RelativeDocumentMoniker": "Views\\Category\\AddOrEdit.cshtml",
               "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\ExpenseTrackerAspNet\\Expense Tracker\\Views\\Category\\AddOrEdit.cshtml",
               "RelativeToolTip": "Views\\Category\\AddOrEdit.cshtml",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAACsAAAAAAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAADYAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-14T09:34:41.604Z"
+              "WhenOpened": "2024-11-16T21:13:25.523Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\ExpenseTrackerAspNet\\Expense Tracker\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\ExpenseTrackerAspNet\\Expense Tracker\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T20:42:13.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\ExpenseTrackerAspNet\\Expense Tracker\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\ExpenseTrackerAspNet\\Expense Tracker\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T20:20:15.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\ExpenseTrackerAspNet\\Expense Tracker\\Views\\Category\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Category\\Index.cshtml",
               "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\ExpenseTrackerAspNet\\Expense Tracker\\Views\\Category\\Index.cshtml",
               "RelativeToolTip": "Views\\Category\\Index.cshtml",
-              "ViewState": "AQIAABgAAAAAAAAAAAAuwCwAAAAjAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-14T14:26:46.058Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\ExpenseTrackerAspNet\\Expense Tracker\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "Models\\Category.cs",
-              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\ExpenseTrackerAspNet\\Expense Tracker\\Models\\Category.cs",
-              "RelativeToolTip": "Models\\Category.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T20:20:15.217Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 14,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\ExpenseTrackerAspNet\\Expense Tracker\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
@@ -141,31 +301,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "site.js",
-              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\ExpenseTrackerAspNet\\Expense Tracker\\wwwroot\\js\\site.js",
-              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
-              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\ExpenseTrackerAspNet\\Expense Tracker\\wwwroot\\js\\site.js",
-              "RelativeToolTip": "wwwroot\\js\\site.js",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\ExpenseTrackerAspNet\\Expense Tracker\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\ExpenseTrackerAspNet\\Expense Tracker\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-11-14T20:58:21.279Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\ExpenseTrackerAspNet\\Expense Tracker\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\ExpenseTrackerAspNet\\Expense Tracker\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-13T22:24:50.261Z"
+              "WhenOpened": "2024-11-16T21:01:12.127Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 16,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\ExpenseTrackerAspNet\\Expense Tracker\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\ExpenseTrackerAspNet\\Expense Tracker\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Models\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T20:39:49.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\ExpenseTrackerAspNet\\Expense Tracker\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -177,7 +339,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 18,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\ExpenseTrackerAspNet\\Expense Tracker\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
@@ -189,7 +351,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 20,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\ExpenseTrackerAspNet\\Expense Tracker\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -201,7 +363,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 19,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\ExpenseTrackerAspNet\\Expense Tracker\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
@@ -213,7 +375,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 21,
               "Title": "20241113210104_Initial Create.cs",
               "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\ExpenseTrackerAspNet\\Expense Tracker\\Migrations\\20241113210104_Initial Create.cs",
               "RelativeDocumentMoniker": "Migrations\\20241113210104_Initial Create.cs",
@@ -222,42 +384,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-13T21:01:05.255Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\ExpenseTrackerAspNet\\Expense Tracker\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\ExpenseTrackerAspNet\\Expense Tracker\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAACEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T20:42:13.704Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\ExpenseTrackerAspNet\\Expense Tracker\\Models\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Models\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\ExpenseTrackerAspNet\\Expense Tracker\\Models\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Models\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T20:39:49.354Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Transaction.cs",
-              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\ExpenseTrackerAspNet\\Expense Tracker\\Models\\Transaction.cs",
-              "RelativeDocumentMoniker": "Models\\Transaction.cs",
-              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\ExpenseTrackerAspNet\\Expense Tracker\\Models\\Transaction.cs",
-              "RelativeToolTip": "Models\\Transaction.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T20:25:13.28Z"
             }
           ]
         }

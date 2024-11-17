@@ -9,6 +9,14 @@
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
+      "Id": "C:\\Users\\drago\\OneDrive\\Desktop\\ExpenseTrackerAspNet\\Expense Tracker\\wwwroot\\favicon-16x16.png",
+      "PackagePath": "staticwebassets\\favicon-16x16.png"
+    },
+    {
+      "Id": "C:\\Users\\drago\\OneDrive\\Desktop\\ExpenseTrackerAspNet\\Expense Tracker\\wwwroot\\favicon-32x32.png",
+      "PackagePath": "staticwebassets\\favicon-32x32.png"
+    },
+    {
       "Id": "C:\\Users\\drago\\OneDrive\\Desktop\\ExpenseTrackerAspNet\\Expense Tracker\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
